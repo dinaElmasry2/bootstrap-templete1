@@ -1,0 +1,147 @@
+.navbar {
+  margin-bottom: 0;
+  background-color: #f4511e !important;
+  border: 0;
+  font-size: 16px !important;
+  letter-spacing: 3px;
+  font-family: Montserrat, sans-serif;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+.nav-link {
+  color: white !important;
+  padding: 0.8rem !important;
+  letter-spacing: 0.2rem;
+}
+.nav-link:hover {
+  color: white !important;
+  padding: 0.8rem !important;
+  letter-spacing: 0.2rem;
+}
+.navbar-nav .active {
+  background-color: white;
+  color: var(--coler1) !important;
+}
+.navbar-nav :hover {
+  background-color: white;
+  color: var(--coler1) !important;
+  color: #f4511e !important;
+}
+header {
+  background-color: #f4511e;
+}
+.ownbtn {
+  background-color: white;
+  border: 1px solid rgb(77, 77, 77);
+  color: black;
+  font-size: 16px;
+}
+.ownbtn:hover {
+  background-color: rgb(206, 206, 206);
+}
+
+.icon {
+  color: #f4511e;
+  height: 80px;
+  width: 80px;
+  padding: 15px;
+}
+i {
+  font-size: 50px;
+  color: #f4511e;
+  padding: 15px;
+}
+.scroll {
+  font-size: 35px;
+  color: #f4511e;
+}
+.earth {
+  color: #f4511e;
+  font-size: 140px;
+}
+.chart {
+  color: #f4511e;
+  height: 140px;
+  width: 140px;
+}
+a {
+  text-decoration: none;
+}
+.containf {
+  background-color: rgb(238, 238, 238);
+}
+.card-header {
+  background-color: #f4511e;
+  color: white;
+  font-size: larger;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+p {
+  font-size: 17px;
+}
+.display-2 {
+  font-family: "Montserrat", sans-serif;
+}
+@media screen and (min-width: 768px) {
+  .portf {
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 32%;
+  }
+}
+.precing {
+  margin-right: 15px;
+  margin-left: 15px;
+  padding: 0px;
+  border: #f4511e 1px solid;
+  color: #f4511e;
+}
+.precing:hover {
+  border: #f4511e 1px solid;
+  box-shadow: 5px 5px 30px silver;
+}
+.number {
+  font-family: cursive;
+  color: rgb(129, 113, 113);
+  font-weight: 300;
+}
+.dolor {
+  font-family: cursive;
+  color: rgb(129, 113, 113);
+  font-weight: 200;
+  font-size: xx-large;
+}
+.sm {
+  font-size: small;
+}
+.italic {
+  font-style: italic;
+}
+.modicon {
+  font-size: 20px;
+}
+.btns:hover {
+  color: #f4511e;
+  background-color: white;
+  padding: 5px 15px;
+  border: #f4511e 1px solid;
+}
+.btns {
+  background-color: #f4511e;
+  color: white;
+  padding: 5px 15px;
+  width: fit-content;
+  margin-bottom: 30px;
+  border: #f4511e 1px solid;
+}
+@media screen and (max-width: 768px) {
+  .btn-lg {
+    width: 100%;
+  }
+}
